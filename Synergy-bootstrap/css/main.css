@@ -1,0 +1,74 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Roboto", sans-serif;
+  font-weight: lighter; }
+
+.hero-custom {
+  background-image: url(../images/hero.jpg);
+  width: 100%; }
+
+.card-custom {
+  width: 13rem; }
+
+.card-custom img {
+  width: 13rem; }
+
+.qna-custom {
+  width: 400px; }
+
+.btn-custom {
+  background-color: #9c27b0; }
+
+.input-custom {
+  border-width: 2px; }
+
+.img-custom {
+  object-fit: cover; }
+
+.form-custom {
+  max-width: 450px; }
+
+.features-container-custom {
+  width: 100%; }
+
+.features-text-custom {
+  width: 500px; }
+
+.features-custom {
+  max-width: 450px; }
+
+.collage-img-custom {
+  object-fit: cover; }
+
+.testimonial-container-custom {
+  width: 500px; }
+
+.carousel-indicators li {
+  background-color: black;
+  height: 13px;
+  width: 13px; }
+
+.footer-custom {
+  max-width: 450px; }
+
+@media only screen and (max-width: 770px) {
+  .hero-h-custom {
+    font-size: 35px; }
+  .footer-h-custom {
+    font-size: 28px; }
+  .card-custom {
+    width: 10rem; }
+  .card-custom img {
+    width: 10rem; }
+  .features-img-custom {
+    width: 120px; }
+  .features-text-custom {
+    width: 100%; }
+  .features-container-custom {
+    width: 250px; }
+  .testimonial-hide-custom {
+    display: none; } }
